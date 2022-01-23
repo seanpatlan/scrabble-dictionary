@@ -4,7 +4,7 @@ Word bank of valid Scrabble words found in the Merriam Webster Scrabble dictiona
 
 *dictionary.csv* contains all words in one long column of data.
 
-*dictionary-organized.csv* is sorted into rows of words with the same length and first letter.
+*dictionary-sorted.csv* is sorted into rows of words with the same length and first letter.
 The first value of each row tells the first letter of every word in that row.
 The second value of each row tells the length of every word in that row.
 
