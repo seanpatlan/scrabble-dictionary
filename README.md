@@ -8,5 +8,5 @@ Word bank of valid Scrabble words found in the Merriam Webster Scrabble dictiona
 The first value of each row tells the first letter of every word in that row.
 The second value of each row tells the length of every word in that row.
 
-As of 1/23/22, this is an exthaustive list
+As of 1/23/22, this is an exhaustive list
 
