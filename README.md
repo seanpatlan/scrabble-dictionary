@@ -13,3 +13,4 @@ As of 1/23/22, this is an exhaustive list
 **Added words:** (not in Merriam Webster)
 - fart
 - farts
+- peed
