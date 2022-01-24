@@ -10,3 +10,6 @@ The second value of each row tells the length of every word in that row.
 
 As of 1/23/22, this is an exhaustive list
 
+**Added words:** (not in Merriam Webster)
+- fart
+- farts
