@@ -1,6 +1,6 @@
 # Scrabble Dictionary
 
-Word bank of valid Scrabble words found in the Merriam Webster Scrabble dictionary (https://scrabble.merriam.com/)
+Word bank of valid Scrabble words found in the [Merriam Webster Scrabble dictionary](https://scrabble.merriam.com/)
 
 *dictionary.csv* contains all words in one long column of data.
 
